@@ -1,2 +1,3 @@
-# IT-Class
+# IT-Class 11 
+Java Nike Factory program
 
